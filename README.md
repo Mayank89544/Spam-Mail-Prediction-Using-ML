@@ -1,4 +1,4 @@
-# Spam Mail Prediction Using Machine Learning
+# SpamRadar : Spam Mail Prediction Using Machine Learning
 
 This project aims to predict whether an email is spam or not using a machine learning model.
 
